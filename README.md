@@ -1,39 +1,74 @@
-# Hi there! I'm Erandi Indunil 👋 👩‍💻
+<div align="center">
+  <h1>Hi, I'm Erandi Indunil 👋</h1>
+  <p><strong>Software Engineering Undergraduate | Aspiring Full Stack Developer | Database Enthusiast</strong></p>
+</div>
 
-### 🚀 Software Engineering Undergraduate | Aspiring Full Stack Developer
-I am a passionate Software Engineering student at **NSBM Green University**, dedicated to building scalable and efficient web applications. My core strength lies in bridgeing the gap between a seamless **Frontend** experience and a robust, optimized **Database Architecture**.
-
----
-
-### 🛠 Tech Stack
-
-**🌐 Frontend Development**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-**⚙️ Backend Development**
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-*Focused on **Object-Oriented Programming (OOP)** principles in Java & C#.*
-
-**🗄️ Database Management (My Special Interest)**
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Erandi-idu&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+</div>
 
 ---
 
-### 📊 What I'm working on
-- 🔭 **Current Focus:** Deepening my knowledge in **Full Stack Web Development** and **Advanced SQL**.
-- 🌱 **Learning:** Mastering **MERN Stack** (MongoDB, Express, React, Node.js).
-- ⚡ **Goal:** Designing database schemas that are both high-performing and scalable.
+### 💫 About Me
+I am a passionate **Software Engineering Student** at **NSBM Green University** with a deep interest in building end-to-end applications. My goal is to master **Full Stack Development** while specializing in **Database Architecture and Optimization**. I believe that a robust backend and an efficient database are the foundation of every great software.
+
+- 🔭 **Current Focus:** Building scalable web applications using **MERN Stack**.
+- 🗄️ **Specialization:** Advanced SQL, Schema Design, and Performance Tuning.
+- 🌱 **Learning:** Currently exploring **Cloud Databases** and **Microservices Architecture**.
+- ⚡ **Fun Fact:** I enjoy solving complex logic puzzles and designing efficient data structures.
 
 ---
 
-### 📈 GitHub Activities
+### 💻 Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="200"><strong>Frontend</strong></td>
+    <td align="center" width="200"><strong>Backend</strong></td>
+    <td align="center" width="200"><strong>Databases</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,java,cs" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<div align="center">
+  <strong>Tools & Utilities</strong><br />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</div>
+
+---
+
+### 📊 GitHub Analysis
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Erandi-idu&show_icons=true&theme=radical&count_private=true" alt="Erandi's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erandi-idu&layout=compact&theme=radical" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Erandi-idu&show_icons=true&theme=radical&hide_border=false&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erandi-idu&layout=compact&theme=radical&hide_border=false" />
 </p>
 
 ---
 
-### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erandi-indunil-2968b82a0/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erandiindunil1224@gmail.com)
+### 🤝 Connect with Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/erandi-indunil-2968b82a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ඔබේ_ඊමේල්_ලිපිනය_මෙතනට_දාන්න">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</div>
