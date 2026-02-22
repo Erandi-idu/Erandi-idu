@@ -42,6 +42,11 @@ I am a passionate **Software Engineering Student** at **NSBM Green University** 
 
 <br />
 
+<br />
+
+### 🏆 Achievements
+![GitHub for Beginners Badge](https://raw.githubusercontent.com/nisalgunawardhana/Github-for-beginners/main/images/badge.png)
+
 <div align="center">
   <strong>Tools & Utilities</strong><br />
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
