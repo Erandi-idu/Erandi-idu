@@ -51,13 +51,14 @@ I am a passionate **Software Engineering Student** at **NSBM Green University** 
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </div>
 
----
-
 | Achievement | Description | Verification |
 | :--- | :--- | :--- |
 | **Docker 101 Badge** | Mastered Docker CLI, Images, Containers, and Dockerfiles. | [Issue #28 Submission](https://github.com/nisalgunawardhana/docker-101/issues/28) |
 
 <br>
+
+---
+
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/Erandi-idu/docker-101/main/images/badge.png" width="200" alt="Docker 101 Badge">
