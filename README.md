@@ -46,12 +46,10 @@ I am a passionate **Software Engineering Student** at **NSBM Green University** 
 
 ### 🏆 Achievements
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/nisalgunawardhana/Github-for-beginners/main/badge.png" width="200" alt="GitHub for Beginners Badge" />
-  <img src="https://raw.githubusercontent.com/Erandi-idu/docker-101/main/images/badge.png" width="200" alt="Docker 101 Badge" />
-</div>
-
-<br/>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Erandi-idu/Github-for-beginners/main/badge.png" width="210" alt="GitHub for Beginners Badge" />
+  <img src="https://raw.githubusercontent.com/Erandi-idu/docker-101/main/images/badge.png" width="210" alt="Docker 101 Badge" />
+</p>
 
 | Achievement | Description | Verification |
 | :--- | :--- | :--- |
@@ -61,9 +59,6 @@ I am a passionate **Software Engineering Student** at **NSBM Green University** 
 ---
 
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/Erandi-idu/docker-101/main/images/badge.png" width="200" alt="Docker 101 Badge">
-</div>
 
 ### 📊 GitHub Analysis
 <p align="center">
