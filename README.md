@@ -47,14 +47,13 @@ I am a passionate **Software Engineering Student** at **NSBM Green University** 
 ### 🏆 Achievements
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Erandi-idu/Github-for-beginners/main/images/badge.png" width="200" />
-  <img src="https://raw.githubusercontent.com/Erandi-idu/docker-101/main/images/badge.png" width="200" />
+  <a href="https://github.com/nisalgunawardhana/Github-for-beginners/issues" target="_blank">
+    <img src="https://raw.githubusercontent.com/Erandi-idu/Github-for-beginners/main/images/badge.png" width="210" alt="GitHub for Beginners Badge" />
+  </a>
+  <a href="https://github.com/nisalgunawardhana/docker-101/issues/28" target="_blank">
+    <img src="https://raw.githubusercontent.com/Erandi-idu/docker-101/main/images/badge.png" width="210" alt="Docker 101 Badge" />
+  </a>
 </p>
-
-| Achievement | Description | Verification |
-| :--- | :--- | :--- |
-| **Github for Beginners** | Mastered the basics of Git, GitHub workflows, and repository management. | [View Submission](https://github.com/nisalgunawardhana/Github-for-beginners/issues) |
-| **Docker 101 Badge** | Mastered Docker CLI, Images, Containers, and Dockerfiles. | [Issue #28 Submission](https://github.com/nisalgunawardhana/docker-101/issues/28) |
 
 ---
 
